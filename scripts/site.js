@@ -4,7 +4,7 @@
  */
 
 
-//tweets display, yes i know there are one million plugins, well i I wanted to do.
+//tweets display, there are one million plugins ¬¬.
 
 jQuery(document).ready(function(){
 	
